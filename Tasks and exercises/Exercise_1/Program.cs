@@ -15,6 +15,3 @@ if (number!.Length == 5){
   CheckingNumber(number);
 }
 else Console.WriteLine($"Введи правильное число");
-
-
-
